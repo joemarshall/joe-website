@@ -21,12 +21,11 @@ Build a game to support physiotherapy exercises. I'm kind of flexible as to what
 
 ## Punchbag VR Game
 
-I have a large hanging punchbag. For this project you will implement some kind of fighting/martial arts game using the punchbag and a VR headset. You may want to use extra sensors on the punchbag to detect hitting it (we have hardware to do available from the Comp4104 module), or do something smart with the headset camera or microphone, or even just make sure the person is in the right place when they are going to hit things. 
+I have a large hanging punchbag. For this project you will implement some kind of fighting/martial arts game using the punchbag and a VR headset. You may want to use extra sensors on the punchbag to detect hitting it (we have hardware to do this available from the Comp4104 module), or do something smart with the headset camera or microphone, or orchestrate the game to make sure the person is in the right place when they are going to hit things. 
 
-This project will require you to be comfortable using a game engine.
+This project will require you to be comfortable using a game engine and generally doing some programming. 
 
-
-
+You'll also be expected to do some kind of user study of this. If you are more HCI focused, you may wish to build a less technical prototype and do a broader user study, and vice-versa for more programming focused students. 
 
 
 
